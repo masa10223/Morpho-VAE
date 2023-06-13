@@ -18,3 +18,5 @@ This might take a few minutes.
 ## Usage
 Show_results_notebook.ipynb is a jupyter notebook that can run the results of the paper on a calculator.
 You can view the results by pressing the cell written on it, but keep in mind that you will need a GPU environment. 
+
+If you want more information about this code, please email to ```masa10223(・x・)yahoo.co.jp```
